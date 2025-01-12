@@ -1,5 +1,6 @@
 # Progetto Visualizzazione Scientifica
-## Covid-19
+## Covid-19 
+#### Membri gruppo: Ahmed Hilmi(02781A), Hamza Sana(984878)
 ### PRECISAZIONE
 #### La presentazione include grafici e immagini statiche; per visualizzare i video correlati, si prega di seguire il link fornito:
 
