@@ -3,7 +3,7 @@
 ### PRECISAZIONE
 #### La presentazione include grafici e immagini statiche; per visualizzare i video correlati, si prega di seguire il link fornito:
 
-#### [PRESENTAZIONE]([URL](https://www.canva.com/design/DAGXfvUxZsA/8NzynTKBHbGsh-OTlDQwGw/view?utm_content=DAGXfvUxZsA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2050ccfbde))
+[PRESENTAZIONE](https://www.canva.com/design/DAGXfvUxZsA/8NzynTKBHbGsh-OTlDQwGw/view?utm_content=DAGXfvUxZsA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2050ccfbde)
 
 COVID-19 è una malattia infettiva causata dal coronavirus SARS-CoV-2, emerso per la prima volta a Wuhan, in Cina, alla fine del 2019. Si trasmette principalmente attraverso le goccioline respiratorie emesse da persone infette durante la respirazione, il parlare, la tosse o lo starnuto. I sintomi variano da lievi, come febbre, tosse e affaticamento, a gravi, con complicazioni come polmonite e insufficienza respiratoria.
 
